@@ -1,4 +1,4 @@
-# JULESSS-CODER'S SOLUTION TO "CAESAR CIPHER"
+# Julesss-coder's solution to "caesar cipher"
 
 This is my solution to an exercise in test-driven development by The Odin Project (https://github.com/TheOdinProject/javascript-exercises/tree/master/caesar).
 Exercise: see below.
